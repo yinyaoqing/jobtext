@@ -1,0 +1,7 @@
+id,company,title,salary_text,salary_period,salary_min,salary_max,currency,monthly_min,negotiable,remote_mode,office_days_per_week,utc_offsets,tech
+tw-001,山嵐軟體股份有限公司,電商資深前端工程師,"65,000–125,000 /月",month,65000,125000,TWD,65000,false,hybrid,1,,Java; JavaScript; TypeScript; React; HTML; CSS; Git
+tw-002,雲杉數位有限公司,前端工程師（Vue）,"面議（40,000 以上 /月）",month,40000,40000,TWD,40000,true,onsite,,,Vue; Vite; REST API
+tw-003,北辰資訊股份有限公司,全端工程師,"66,667–100,000 /月",year,800000,1200000,TWD,66667,false,hybrid,2,,Next.js; Spring; PostgreSQL; Docker; AWS
+int-004,Northwind Labs,Senior Frontend Engineer,"USD 90,000–120,000 /年",year,90000,120000,USD,7500,false,full_remote,,"UTC+08:00, UTC+09:00",TypeScript; React; Playwright; GraphQL
+int-005,Lakeside Tools GmbH,Full-Stack Developer,"EUR 60,000–75,000 /年",year,60000,75000,EUR,5000,false,hybrid,3,UTC+01:00,Java; React; Kotlin
+int-006,Example Corp,Support Engineer,,,,,,,false,unknown,,,Python; SQL

@@ -1,0 +1,8 @@
+id,title,company,location,salary,remote,description
+tw-001,電商資深前端工程師,山嵐軟體股份有限公司,新竹縣竹北市,"月薪65,000~125,000元",部分遠端,"<p>使用 React.js 與 TypeScript 開發電商前台。</p><ul><li>熟悉 HTML、CSS、JavaScript</li><li>熟悉 Git 與 CI/CD</li><li>會用 Java 處理檔案匯入匯出者佳</li></ul><p>若在不同縣市，一週進公司開一次會即可。</p>"
+tw-002,前端工程師（Vue）,雲杉數位有限公司,台北市信義區,"待遇面議（經常性薪資達4萬元或以上）",,"<p>Vue 3、Vite、Pinia，搭配 RESTful API。此職務不可遠端。</p>"
+tw-003,全端工程師,北辰資訊股份有限公司,台中市西屯區,年薪80~120萬,,"Next.js + Spring Boot + PostgreSQL，部署在 AWS 與 Docker。每週需到辦公室兩天，其餘時間遠端。"
+int-004,Senior Frontend Engineer,Northwind Labs,Remote (Asia),,,"&lt;p&gt;We are a remote-first team. Stack: React, TypeScript, GraphQL, Playwright.&lt;/p&gt;&lt;p&gt;Pay: US$90k&amp;ndash;120k / year. Overlap with UTC+8 and UTC+9 required.&lt;/p&gt;"
+int-005,Full-Stack Developer,Lakeside Tools GmbH,"Berlin, Germany",€60000 - €75000 per year,Hybrid,"Hybrid, 3 days a week in the office. Kotlin, Java, React. Core hours 10:00-16:00 CET."
+int-006,Support Engineer,Example Corp,,,,"Hours 9-5 CST. Python and SQL a plus."
+bad-007,,沒有職稱的列,,,,這一列會被略過並在報告中列出行號
